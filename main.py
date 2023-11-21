@@ -1,2 +1,2 @@
-# Hello. Type your name in the print statement and commit.
+# Hello. Type your name a new print statement and commit.
 print("")
